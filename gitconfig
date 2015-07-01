@@ -1,0 +1,11 @@
+[user]
+	email = pablocordero@gmail.com
+	name = Pablo Cordero
+[core]
+	excludesfile = /Users/pcordero/.gitignore_global
+[log]
+	abbrevCommit = true
+[format]
+	pretty = %Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset
+[push]
+	default = simple
